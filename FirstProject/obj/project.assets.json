@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Trist\\Documents\\Repositories\\LearningC#\\FirstProject\\FirstProject.csproj",
+      "projectUniqueName": "c:\\Users\\Trist\\Documents\\Repositories\\C# Projects\\newLearningCs\\FirstProject\\FirstProject.csproj",
       "projectName": "FirstProject",
-      "projectPath": "c:\\Users\\Trist\\Documents\\Repositories\\LearningC#\\FirstProject\\FirstProject.csproj",
+      "projectPath": "c:\\Users\\Trist\\Documents\\Repositories\\C# Projects\\newLearningCs\\FirstProject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\Trist\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Trist\\Documents\\Repositories\\LearningC#\\FirstProject\\obj\\",
+      "outputPath": "c:\\Users\\Trist\\Documents\\Repositories\\C# Projects\\newLearningCs\\FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trist\\AppData\\Roaming\\NuGet\\NuGet.Config"

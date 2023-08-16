@@ -1,0 +1,28 @@
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.exe
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.deps.json
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.runtimeconfig.json
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.dll
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.pdb
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.AssemblyInfoInputs.cache
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.AssemblyInfo.cs
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.csproj.CoreCompileInputs.cache
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.dll
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\refint\FirstProject.dll
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.pdb
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.genruntimeconfig.cache
+c:\Users\Trist\Documents\Repositories\newLearningCs\FirstProject\obj\Debug\net7.0\ref\FirstProject.dll
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.exe
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.deps.json
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.runtimeconfig.json
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.dll
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\bin\Debug\net7.0\FirstProject.pdb
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.AssemblyInfo.cs
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.dll
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\refint\FirstProject.dll
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.pdb
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\FirstProject.genruntimeconfig.cache
+C:\Users\Trist\Documents\Repositories\C# Projects\newLearningCs\FirstProject\obj\Debug\net7.0\ref\FirstProject.dll
