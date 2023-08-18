@@ -56,9 +56,18 @@ intList.Add(66);
 foreach (int number in intList) {
     Console.WriteLine(number);
 }
-for(int i = 0; i < 10; i++) {
-    Console.WriteLine(i);
-} 
+// for(int i = 0; i < 10; i++) {
+//     Console.WriteLine(i);
+// } 
+int stopLoopI = 0;
+// while(stopLoopI < 10) {
+//     Console.WriteLine(stopLoopI);
+//     stopLoopI++;
+// }
+do {
+    Console.WriteLine(stopLoopI);
+    stopLoopI++;
+} while (stopLoopI < 5); //same as a while loop only written backwards
 
 // Console.WriteLine(2.625); // The compiler defaults to a double literal when a decimal number is entered without a literal suffix.
 
@@ -67,3 +76,15 @@ void consoleMessage(string message) {
     Console.WriteLine(message);
 } // functions are created with the return value
 consoleMessage("Hello");
+
+enum PlayerState {
+    Idle,
+    Moving,
+    Attacking
+} // human readable values
+static PlayerState player; // an object with those values
+switch (player) {
+    case PlayerState.Idle: break;
+    case PlayerState.Moving: break;
+    case PlayerState.Attacking: break;
+} // using the PlayerState values
